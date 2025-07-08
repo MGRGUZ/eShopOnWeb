@@ -9,7 +9,7 @@ env:
   LOCATION: southcentralus
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: 6393aaad-3783-41e8-b05e-508cbeff4926
-  WEBAPP-NAME: eshoponweb-webapp-eshoponweb-webapp52808887
+  WEBAPP-NAME: eshoponweb-webapp52808887
 
 
 jobs:
